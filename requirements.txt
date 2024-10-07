@@ -1,0 +1,25 @@
+# Core Airflow package
+apache-airflow==2.10.2
+
+# Data manipulation and CSV handling
+pandas==2.1.1
+
+# Making API requests
+requests==2.31.0
+
+# Download datasets from Kaggle
+kaggle==1.5.15
+
+
+# # Snowflake integration
+# snowflake-connector-python==2.7.0
+# snowflake-sqlalchemy==1.3.0
+
+# # Airflow providers for Snowflake and Pandas
+# apache-airflow-providers-snowflake==2.0.0  # or whatever version works for you
+
+# apache-airflow-providers-pandas==1.0.0
+
+# # Airflow TaskGroup for parallelism (optional)
+# apache-airflow-providers-task-group==1.0.0
+
